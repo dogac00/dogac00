@@ -2,7 +2,7 @@
 
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
-  <img src="https://en.wikipedia.org/wiki/.NET_Framework#/media/File:.NET_Logo.svg" alt=".NET" width="55" height="55" />
+  <img src="https://github.com/dogac00/dogac00/blob/main/dotnet.svg" alt=".NET" width="55" height="55" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
